@@ -1,7 +1,6 @@
 autoUpdate:
   enabled: false
   schedule: ""
-buildPackURL: https://github.com/jenkins-x/jxr-packs-kubernetes.git  
 cluster:
   clusterName: fake
   devEnvApprovers:
